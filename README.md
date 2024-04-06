@@ -1,4 +1,4 @@
-# Pennywise Analysis Microservice
+# Pennywise Analysis Service
 
 The Analysis Microservice is a backend component of the Pennywise Personal Finance App responsible for performing data analysis on financial data stored in the database. It operates on data ingested by the Pennywise Ingest Service, transforming it into actionable insights for users.
 
